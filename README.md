@@ -9,9 +9,11 @@ This project aims to predict whether a person’s income is above 50K or not, wh
 ### DATA ACQUISITION AND ANALYSIS
 
 We obtain the data from UC Irvine machine learning database, which including the samples’ different features and their annual income is above 50K or not.
-*Data Example: 4 million adults’ features and salary statistics in 1994
-https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
-The project should include several parts: To address our purpose using the data, we first need to have access to website document for data with Urllib/Socket;  After observing the data, we use Numpy and Pandas to extract features and do analysis; Matplotlib, NetworkX can help with the visualization. Basemap, Geoplotlib associate geometric data with networks when visualizing distribution of countries. Scikit-learn will provide machine learning algorithms that we might use in classifier.
+
+*Dataset: 4 million adults’ features and salary statistics in 1994
+https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data*
+
+The project should include several parts: To address our purpose using the data, we first need to have access to website document for data with __Urllib/Socket__;  After observing the data, we use __Numpy__ and __Pandas__ to extract features and do analysis; __Matplotlib__, __NetworkX__ can help with the visualization. __Basemap__, __Geoplotlib__ associate geometric data with networks when visualizing distribution of countries. __Scikit-learn__ will provide machine learning algorithms that we might use in classifier.
 
 ### EXPECTED TIMELINE
 | Task  | Start/End Time | Assigned Member |

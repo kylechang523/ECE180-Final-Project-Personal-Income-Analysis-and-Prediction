@@ -27,7 +27,7 @@ The project should include several parts: To address our purpose using the data,
 | Conclusion and Report | 3/1 - 3/6 | All members |
 
 #### Feature Responsibilities
-| Features | Responsibility |
+| Responsibility | Feature |
 | -------- | ------- |
 | Jax | Race, Education |
 | Kaiyu | Age, Working Year |

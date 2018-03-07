@@ -29,10 +29,7 @@ The project should include several parts: To address our purpose using the data,
 #### Feature Responsibilities
 | Features | Responsibility |
 | -------- | ------- |
-| Age | Kaiyu |
-| Education | Andrew |
-| Marriage Status | Linqi |
-| Job Type | Wenyu |
-| Race | Fengcan |
-| Gender | Yucheng |
-| Nationality | Woen |
+| Jax | Race, Education |
+| Kaiyu | Age, Working Year |
+| Woen | Nationality, Marriage Status |
+| Yucheng | Job Type, Gender |

@@ -1,4 +1,4 @@
-# Project Proposal：Personal Income Analysis and Prediction
+# Personal Income Analysis and Prediction
 ECE180 Team2:
 Kaiyu Zhang / Wenyu Zhang / Fengcan Zhu / Linqi Pan / Yucheng Huang / Woen Lee / Andrew (Dung) Luong
 

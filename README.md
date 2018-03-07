@@ -25,3 +25,14 @@ The project should include several parts: To address our purpose using the data,
 | Data Analysis III: Attribute Correlation | 2/12 - 2/24 | Wenyu & Yucheng |
 | Data Visualization: Plotting/Networking | 2/24 - 3/4 | All members |
 | Conclusion and Report | 3/1 - 3/6 | All members |
+
+#### Feature Responsibilities
+| Features | Responsibility |
+| -------- | ------- |
+| Age | Kaiyu |
+| Education | Andrew |
+| Marriage Status | Linqi |
+| Job Type | Wenyu |
+| Race | Fengcan |
+| Gender | Yucheng |
+| Nationality | Woen |

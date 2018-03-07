@@ -20,7 +20,7 @@ The project should include several parts: To address our purpose using the data,
 | ------------- | ------------- | ------------ |
 | Data Acquisition/Assembly  | 2/9 - 2/11  | Fengcan & Linqi & Yucheng |
 | Data Learning: Classifier Training  | 2/12 - 2/16  | Kaiyu & Wenyu & Woen |
-| Data Analysis I: Prediction Accuracy | 2/17 - 2/24 | Kaiyu & Andres & Woen |
+| Data Analysis I: Prediction Accuracy | 2/17 - 2/24 | Kaiyu & Andrew & Woen |
 | Data Analysis II: Impact Ranking | 2/17 - 2/24 | Andrew & Fengcan & Linqi |
 | Data Analysis III: Attribute Correlation | 2/12 - 2/24 | Wenyu & Yucheng |
 | Data Visualization: Plotting/Networking | 2/24 - 3/4 | All members |

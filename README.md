@@ -27,12 +27,9 @@ The project should include several parts: To address our purpose using the data,
 | Conclusion and Report | 3/1 - 3/6 | All members |
 
 #### Feature Responsibilities
-| Features | Responsibility |
+| Responsibility | Feature |
 | -------- | ------- |
-| Age | Kaiyu |
-| Education | Andrew |
-| Marriage Status | Linqi |
-| Job Type | Wenyu |
-| Race | Fengcan |
-| Gender | Yucheng |
-| Nationality | Woen |
+| Jax | Race, Education |
+| Kaiyu | Age, Working Year |
+| Woen | Nationality, Marriage Status |
+| Yucheng | Job Type, Gender |

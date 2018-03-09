@@ -15,6 +15,14 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data*
 
 The project should include several parts: To address our purpose using the data, we first need to have access to website document for data with __Urllib/Socket__;  After observing the data, we use __Numpy__ and __Pandas__ to extract features and do analysis; __Matplotlib__, __NetworkX__ can help with the visualization. __Basemap__, __Geoplotlib__ associate geometric data with networks when visualizing distribution of countries. __Scikit-learn__ will provide machine learning algorithms that we might use in classifier.
 
+#### Feature Responsibilities
+| Responsibility | Feature |
+| -------- | ------- |
+| Jax | Race, Education |
+| Kaiyu | Age, Working Year |
+| Woen | Nationality, Marriage Status |
+| Yucheng | Job Type, Gender |
+
 ### EXPECTED TIMELINE
 | Task  | Start/End Time | Assigned Member |
 | ------------- | ------------- | ------------ |
@@ -25,11 +33,3 @@ The project should include several parts: To address our purpose using the data,
 | Data Analysis III: Attribute Correlation | 2/12 - 2/24 | Wenyu & Yucheng |
 | Data Visualization: Plotting/Networking | 2/24 - 3/4 | All members |
 | Conclusion and Report | 3/1 - 3/6 | All members |
-
-#### Feature Responsibilities
-| Responsibility | Feature |
-| -------- | ------- |
-| Jax | Race, Education |
-| Kaiyu | Age, Working Year |
-| Woen | Nationality, Marriage Status |
-| Yucheng | Job Type, Gender |
